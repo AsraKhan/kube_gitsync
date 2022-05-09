@@ -1,1 +1,1 @@
-# kubeGitSync
+# kubegitsync
